@@ -34,4 +34,4 @@ console.log(user.name); // string
 console.log(user.courses); // array of strings
 console.log(user.tasks); // array of objects
 ```
-or view the [example](example.js) script
+or view the [example](example.js) CommonJS script
